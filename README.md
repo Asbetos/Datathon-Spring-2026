@@ -108,4 +108,4 @@ pip install -r requirements.txt
 
 ## Team
 
-GW Data Science & Analytics — Datathon Spring 2026
+GW Data Science — Datathon Spring 2026
