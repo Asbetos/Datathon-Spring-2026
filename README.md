@@ -1,4 +1,4 @@
-# Closing the Loop: A Three-Tier Framework to Divert 1M Tons of Food Waste
+# Food Excess Analysis & Policy Framework
 
 **First causal evidence that bans without infrastructure fail — the Massachusetts model shows how to fix it**
 
@@ -108,4 +108,4 @@ pip install -r requirements.txt
 
 ## Team
 
-GW Data Science & Analytics — Datathon Spring 2026
+GW Data Science — Datathon Spring 2026
