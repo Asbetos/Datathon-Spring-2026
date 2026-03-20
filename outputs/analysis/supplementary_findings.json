@@ -1,0 +1,29 @@
+{
+  "national": {
+    "total_meals_wasted": 114896742533,
+    "total_food_insecure_people": 45396138,
+    "meals_per_food_insecure_person": 2531
+  },
+  "highest_per_capita_waste": {
+    "state": "Wisconsin",
+    "tons_per_capita": 0.4487
+  },
+  "lowest_per_capita_waste": {
+    "state": "Rhode Island",
+    "tons_per_capita": 0.1018
+  },
+  "insecurity_waste_correlation": {
+    "pearson_r": -0.172,
+    "p_value": 0.2315
+  },
+  "ban_vs_no_ban": {
+    "ban_states_mean_tons_per_capita": 0.1738,
+    "no_ban_states_mean_tons_per_capita": 0.1646,
+    "pct_lower_in_ban_states": -5.6
+  },
+  "charts_produced": [
+    "outputs/analysis/charts/per_capita_waste_by_state.png",
+    "outputs/analysis/charts/insecurity_vs_waste.png",
+    "outputs/analysis/charts/meals_vs_insecurity.png"
+  ]
+}
