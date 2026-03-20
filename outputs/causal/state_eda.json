@@ -1,0 +1,734 @@
+{
+  "state_stats_2024": {
+    "Alabama": {
+      "tons_surplus": 751060.0,
+      "tons_waste": 652795.0,
+      "tons_landfill": 400188.0,
+      "tons_composting": 132751.0,
+      "tons_donations": 19026.0,
+      "landfill_rate": 0.613,
+      "diversion_rate": 0.3076,
+      "us_dollars_surplus": 5448215002.0,
+      "co2e": 3411149.0
+    },
+    "Alaska": {
+      "tons_surplus": 92722.0,
+      "tons_waste": 78661.0,
+      "tons_landfill": 53321.0,
+      "tons_composting": 19242.0,
+      "tons_donations": 2743.0,
+      "landfill_rate": 0.6779,
+      "diversion_rate": 0.395,
+      "us_dollars_surplus": 830991454.0,
+      "co2e": 458871.0
+    },
+    "Arizona": {
+      "tons_surplus": 1957735.0,
+      "tons_waste": 1849348.0,
+      "tons_landfill": 707056.0,
+      "tons_composting": 261961.0,
+      "tons_donations": 32764.0,
+      "landfill_rate": 0.3823,
+      "diversion_rate": 0.2047,
+      "us_dollars_surplus": 9026390096.0,
+      "co2e": 5078913.0
+    },
+    "Arkansas": {
+      "tons_surplus": 656582.0,
+      "tons_waste": 473696.0,
+      "tons_landfill": 275348.0,
+      "tons_composting": 122217.0,
+      "tons_donations": 19810.0,
+      "landfill_rate": 0.5813,
+      "diversion_rate": 0.557,
+      "us_dollars_surplus": 3739726220.0,
+      "co2e": 2845582.0
+    },
+    "California": {
+      "tons_surplus": 12444373.0,
+      "tons_waste": 11284027.0,
+      "tons_landfill": 2077256.0,
+      "tons_composting": 1553374.0,
+      "tons_donations": 223023.0,
+      "landfill_rate": 0.1841,
+      "diversion_rate": 0.2469,
+      "us_dollars_surplus": 45412637480.0,
+      "co2e": 22345219.0
+    },
+    "Colorado": {
+      "tons_surplus": 1087782.0,
+      "tons_waste": 937100.0,
+      "tons_landfill": 603181.0,
+      "tons_composting": 208077.0,
+      "tons_donations": 31887.0,
+      "landfill_rate": 0.6437,
+      "diversion_rate": 0.3636,
+      "us_dollars_surplus": 7841182505.0,
+      "co2e": 4380623.0
+    },
+    "Connecticut": {
+      "tons_surplus": 500534.0,
+      "tons_waste": 448832.0,
+      "tons_landfill": 22626.0,
+      "tons_composting": 154475.0,
+      "tons_donations": 15540.0,
+      "landfill_rate": 0.0504,
+      "diversion_rate": 0.4691,
+      "us_dollars_surplus": 3737193311.0,
+      "co2e": 1917126.0
+    },
+    "Delaware": {
+      "tons_surplus": 181321.0,
+      "tons_waste": 151567.0,
+      "tons_landfill": 81607.0,
+      "tons_composting": 29085.0,
+      "tons_donations": 4693.0,
+      "landfill_rate": 0.5384,
+      "diversion_rate": 0.3117,
+      "us_dollars_surplus": 1118214417.0,
+      "co2e": 767182.0
+    },
+    "Florida": {
+      "tons_surplus": 4855374.0,
+      "tons_waste": 4230486.0,
+      "tons_landfill": 1560799.0,
+      "tons_composting": 849723.0,
+      "tons_donations": 103784.0,
+      "landfill_rate": 0.3689,
+      "diversion_rate": 0.3503,
+      "us_dollars_surplus": 31097844959.0,
+      "co2e": 15477542.0
+    },
+    "Georgia": {
+      "tons_surplus": 2136392.0,
+      "tons_waste": 1850145.0,
+      "tons_landfill": 992451.0,
+      "tons_composting": 324452.0,
+      "tons_donations": 47635.0,
+      "landfill_rate": 0.5364,
+      "diversion_rate": 0.3047,
+      "us_dollars_surplus": 13423394792.0,
+      "co2e": 7889112.0
+    },
+    "Hawaii": {
+      "tons_surplus": 183479.0,
+      "tons_waste": 165065.0,
+      "tons_landfill": 98494.0,
+      "tons_composting": 33111.0,
+      "tons_donations": 3829.0,
+      "landfill_rate": 0.5967,
+      "diversion_rate": 0.3077,
+      "us_dollars_surplus": 1569301913.0,
+      "co2e": 736815.0
+    },
+    "Idaho": {
+      "tons_surplus": 898857.0,
+      "tons_waste": 618670.0,
+      "tons_landfill": 168133.0,
+      "tons_composting": 47666.0,
+      "tons_donations": 52000.0,
+      "landfill_rate": 0.2718,
+      "diversion_rate": 0.5719,
+      "us_dollars_surplus": 2052903362.0,
+      "co2e": 1589441.0
+    },
+    "Illinois": {
+      "tons_surplus": 2190048.0,
+      "tons_waste": 1681857.0,
+      "tons_landfill": 980857.0,
+      "tons_composting": 397976.0,
+      "tons_donations": 64275.0,
+      "landfill_rate": 0.5832,
+      "diversion_rate": 0.5331,
+      "us_dollars_surplus": 14092072537.0,
+      "co2e": 8145008.0
+    },
+    "Indiana": {
+      "tons_surplus": 1319280.0,
+      "tons_waste": 1098346.0,
+      "tons_landfill": 510894.0,
+      "tons_composting": 234188.0,
+      "tons_donations": 35944.0,
+      "landfill_rate": 0.4651,
+      "diversion_rate": 0.4073,
+      "us_dollars_surplus": 7664474881.0,
+      "co2e": 4696613.0
+    },
+    "Iowa": {
+      "tons_surplus": 825664.0,
+      "tons_waste": 515016.0,
+      "tons_landfill": 275504.0,
+      "tons_composting": 146950.0,
+      "tons_donations": 27689.0,
+      "landfill_rate": 0.5349,
+      "diversion_rate": 0.763,
+      "us_dollars_surplus": 5045535176.0,
+      "co2e": 3445253.0
+    },
+    "Kansas": {
+      "tons_surplus": 498264.0,
+      "tons_waste": 386388.0,
+      "tons_landfill": 256767.0,
+      "tons_composting": 92008.0,
+      "tons_donations": 15440.0,
+      "landfill_rate": 0.6645,
+      "diversion_rate": 0.4171,
+      "us_dollars_surplus": 3566422502.0,
+      "co2e": 2450816.0
+    },
+    "Kentucky": {
+      "tons_surplus": 730225.0,
+      "tons_waste": 625331.0,
+      "tons_landfill": 399099.0,
+      "tons_composting": 141789.0,
+      "tons_donations": 20967.0,
+      "landfill_rate": 0.6382,
+      "diversion_rate": 0.3831,
+      "us_dollars_surplus": 4979187588.0,
+      "co2e": 3199521.0
+    },
+    "Louisiana": {
+      "tons_surplus": 1279067.0,
+      "tons_waste": 770270.0,
+      "tons_landfill": 383718.0,
+      "tons_composting": 292699.0,
+      "tons_donations": 29710.0,
+      "landfill_rate": 0.4982,
+      "diversion_rate": 1.0346,
+      "us_dollars_surplus": 6235465047.0,
+      "co2e": 3442909.0
+    },
+    "Maine": {
+      "tons_surplus": 316425.0,
+      "tons_waste": 262635.0,
+      "tons_landfill": 41377.0,
+      "tons_composting": 52231.0,
+      "tons_donations": 11745.0,
+      "landfill_rate": 0.1575,
+      "diversion_rate": 0.4058,
+      "us_dollars_surplus": 1690288977.0,
+      "co2e": 919357.0
+    },
+    "Maryland": {
+      "tons_surplus": 829846.0,
+      "tons_waste": 743639.0,
+      "tons_landfill": 226709.0,
+      "tons_composting": 248862.0,
+      "tons_donations": 26004.0,
+      "landfill_rate": 0.3049,
+      "diversion_rate": 0.4494,
+      "us_dollars_surplus": 6334749594.0,
+      "co2e": 3289871.0
+    },
+    "Massachusetts": {
+      "tons_surplus": 1154584.0,
+      "tons_waste": 1013661.0,
+      "tons_landfill": 161414.0,
+      "tons_composting": 347606.0,
+      "tons_donations": 35966.0,
+      "landfill_rate": 0.1592,
+      "diversion_rate": 0.4802,
+      "us_dollars_surplus": 8304334290.0,
+      "co2e": 4292246.0
+    },
+    "Michigan": {
+      "tons_surplus": 2138180.0,
+      "tons_waste": 1736652.0,
+      "tons_landfill": 718394.0,
+      "tons_composting": 318397.0,
+      "tons_donations": 54138.0,
+      "landfill_rate": 0.4137,
+      "diversion_rate": 0.4123,
+      "us_dollars_surplus": 10186001249.0,
+      "co2e": 6139888.0
+    },
+    "Minnesota": {
+      "tons_surplus": 1462781.0,
+      "tons_waste": 1056539.0,
+      "tons_landfill": 274009.0,
+      "tons_composting": 228709.0,
+      "tons_donations": 41385.0,
+      "landfill_rate": 0.2593,
+      "diversion_rate": 0.6204,
+      "us_dollars_surplus": 8112844379.0,
+      "co2e": 4475346.0
+    },
+    "Mississippi": {
+      "tons_surplus": 471725.0,
+      "tons_waste": 396710.0,
+      "tons_landfill": 229840.0,
+      "tons_composting": 78046.0,
+      "tons_donations": 12257.0,
+      "landfill_rate": 0.5794,
+      "diversion_rate": 0.3287,
+      "us_dollars_surplus": 2962213211.0,
+      "co2e": 2037971.0
+    },
+    "Missouri": {
+      "tons_surplus": 1179274.0,
+      "tons_waste": 962298.0,
+      "tons_landfill": 502528.0,
+      "tons_composting": 196264.0,
+      "tons_donations": 32782.0,
+      "landfill_rate": 0.5222,
+      "diversion_rate": 0.4304,
+      "us_dollars_surplus": 6935068643.0,
+      "co2e": 4605387.0
+    },
+    "Montana": {
+      "tons_surplus": 136670.0,
+      "tons_waste": 119156.0,
+      "tons_landfill": 80220.0,
+      "tons_composting": 22900.0,
+      "tons_donations": 4031.0,
+      "landfill_rate": 0.6732,
+      "diversion_rate": 0.3339,
+      "us_dollars_surplus": 1069026474.0,
+      "co2e": 551055.0
+    },
+    "Nebraska": {
+      "tons_surplus": 458118.0,
+      "tons_waste": 289796.0,
+      "tons_landfill": 175309.0,
+      "tons_composting": 71669.0,
+      "tons_donations": 17033.0,
+      "landfill_rate": 0.6049,
+      "diversion_rate": 0.5977,
+      "us_dollars_surplus": 2986521037.0,
+      "co2e": 2263194.0
+    },
+    "Nevada": {
+      "tons_surplus": 576770.0,
+      "tons_waste": 536566.0,
+      "tons_landfill": 403025.0,
+      "tons_composting": 97835.0,
+      "tons_donations": 11989.0,
+      "landfill_rate": 0.7511,
+      "diversion_rate": 0.2586,
+      "us_dollars_surplus": 5104254991.0,
+      "co2e": 2535658.0
+    },
+    "New Hampshire": {
+      "tons_surplus": 269598.0,
+      "tons_waste": 249174.0,
+      "tons_landfill": 98696.0,
+      "tons_composting": 65147.0,
+      "tons_donations": 6883.0,
+      "landfill_rate": 0.3961,
+      "diversion_rate": 0.3429,
+      "us_dollars_surplus": 1958161702.0,
+      "co2e": 1104651.0
+    },
+    "New Jersey": {
+      "tons_surplus": 1358635.0,
+      "tons_waste": 1172119.0,
+      "tons_landfill": 356638.0,
+      "tons_composting": 375571.0,
+      "tons_donations": 42643.0,
+      "landfill_rate": 0.3043,
+      "diversion_rate": 0.487,
+      "us_dollars_surplus": 9355456939.0,
+      "co2e": 4980888.0
+    },
+    "New Mexico": {
+      "tons_surplus": 421186.0,
+      "tons_waste": 384337.0,
+      "tons_landfill": 190049.0,
+      "tons_composting": 68518.0,
+      "tons_donations": 11066.0,
+      "landfill_rate": 0.4945,
+      "diversion_rate": 0.3141,
+      "us_dollars_surplus": 2334270564.0,
+      "co2e": 1554498.0
+    },
+    "New York": {
+      "tons_surplus": 2715074.0,
+      "tons_waste": 2352654.0,
+      "tons_landfill": 635313.0,
+      "tons_composting": 612581.0,
+      "tons_donations": 79310.0,
+      "landfill_rate": 0.27,
+      "diversion_rate": 0.4361,
+      "us_dollars_surplus": 15665810864.0,
+      "co2e": 8644616.0
+    },
+    "North Carolina": {
+      "tons_surplus": 2118416.0,
+      "tons_waste": 1844323.0,
+      "tons_landfill": 936298.0,
+      "tons_composting": 347736.0,
+      "tons_donations": 50324.0,
+      "landfill_rate": 0.5077,
+      "diversion_rate": 0.3079,
+      "us_dollars_surplus": 12432293145.0,
+      "co2e": 7614114.0
+    },
+    "North Dakota": {
+      "tons_surplus": 377998.0,
+      "tons_waste": 201727.0,
+      "tons_landfill": 78914.0,
+      "tons_composting": 68555.0,
+      "tons_donations": 14851.0,
+      "landfill_rate": 0.3912,
+      "diversion_rate": 1.2107,
+      "us_dollars_surplus": 1580417695.0,
+      "co2e": 704993.0
+    },
+    "Ohio": {
+      "tons_surplus": 2071741.0,
+      "tons_waste": 1681386.0,
+      "tons_landfill": 1018092.0,
+      "tons_composting": 393183.0,
+      "tons_donations": 55407.0,
+      "landfill_rate": 0.6055,
+      "diversion_rate": 0.4615,
+      "us_dollars_surplus": 13192446930.0,
+      "co2e": 7850188.0
+    },
+    "Oklahoma": {
+      "tons_surplus": 610525.0,
+      "tons_waste": 520839.0,
+      "tons_landfill": 300949.0,
+      "tons_composting": 108551.0,
+      "tons_donations": 15337.0,
+      "landfill_rate": 0.5778,
+      "diversion_rate": 0.3434,
+      "us_dollars_surplus": 3959640994.0,
+      "co2e": 2537368.0
+    },
+    "Oregon": {
+      "tons_surplus": 982733.0,
+      "tons_waste": 773148.0,
+      "tons_landfill": 209272.0,
+      "tons_composting": 157873.0,
+      "tons_donations": 34530.0,
+      "landfill_rate": 0.2707,
+      "diversion_rate": 0.4912,
+      "us_dollars_surplus": 4389486353.0,
+      "co2e": 2375288.0
+    },
+    "Pennsylvania": {
+      "tons_surplus": 2083955.0,
+      "tons_waste": 1779911.0,
+      "tons_landfill": 645246.0,
+      "tons_composting": 347871.0,
+      "tons_donations": 55224.0,
+      "landfill_rate": 0.3625,
+      "diversion_rate": 0.3637,
+      "us_dollars_surplus": 13640296940.0,
+      "co2e": 7618154.0
+    },
+    "Rhode Island": {
+      "tons_surplus": 128246.0,
+      "tons_waste": 113270.0,
+      "tons_landfill": 57504.0,
+      "tons_composting": 40283.0,
+      "tons_donations": 4162.0,
+      "landfill_rate": 0.5077,
+      "diversion_rate": 0.48,
+      "us_dollars_surplus": 948885846.0,
+      "co2e": 536708.0
+    },
+    "South Carolina": {
+      "tons_surplus": 902115.0,
+      "tons_waste": 793992.0,
+      "tons_landfill": 465264.0,
+      "tons_composting": 169804.0,
+      "tons_donations": 21975.0,
+      "landfill_rate": 0.586,
+      "diversion_rate": 0.339,
+      "us_dollars_surplus": 6130320856.0,
+      "co2e": 3583710.0
+    },
+    "South Dakota": {
+      "tons_surplus": 199269.0,
+      "tons_waste": 171627.0,
+      "tons_landfill": 74850.0,
+      "tons_composting": 24324.0,
+      "tons_donations": 5003.0,
+      "landfill_rate": 0.4361,
+      "diversion_rate": 0.2934,
+      "us_dollars_surplus": 1094870043.0,
+      "co2e": 877599.0
+    },
+    "Tennessee": {
+      "tons_surplus": 1267106.0,
+      "tons_waste": 1047192.0,
+      "tons_landfill": 657893.0,
+      "tons_composting": 247757.0,
+      "tons_donations": 33604.0,
+      "landfill_rate": 0.6282,
+      "diversion_rate": 0.4401,
+      "us_dollars_surplus": 8737081534.0,
+      "co2e": 5174044.0
+    },
+    "Texas": {
+      "tons_surplus": 4759952.0,
+      "tons_waste": 4077719.0,
+      "tons_landfill": 2625717.0,
+      "tons_composting": 859433.0,
+      "tons_donations": 116367.0,
+      "landfill_rate": 0.6439,
+      "diversion_rate": 0.3634,
+      "us_dollars_surplus": 31797791944.0,
+      "co2e": 19730652.0
+    },
+    "Utah": {
+      "tons_surplus": 582713.0,
+      "tons_waste": 502689.0,
+      "tons_landfill": 235536.0,
+      "tons_composting": 83357.0,
+      "tons_donations": 14882.0,
+      "landfill_rate": 0.4686,
+      "diversion_rate": 0.3541,
+      "us_dollars_surplus": 3253335758.0,
+      "co2e": 2197058.0
+    },
+    "Vermont": {
+      "tons_surplus": 130604.0,
+      "tons_waste": 116069.0,
+      "tons_landfill": 37450.0,
+      "tons_composting": 25341.0,
+      "tons_donations": 4111.0,
+      "landfill_rate": 0.3227,
+      "diversion_rate": 0.4041,
+      "us_dollars_surplus": 698562062.0,
+      "co2e": 441878.0
+    },
+    "Virginia": {
+      "tons_surplus": 1442439.0,
+      "tons_waste": 1288375.0,
+      "tons_landfill": 687899.0,
+      "tons_composting": 275202.0,
+      "tons_donations": 35837.0,
+      "landfill_rate": 0.5339,
+      "diversion_rate": 0.322,
+      "us_dollars_surplus": 10708994663.0,
+      "co2e": 5985507.0
+    },
+    "Washington": {
+      "tons_surplus": 3567792.0,
+      "tons_waste": 2781925.0,
+      "tons_landfill": 414708.0,
+      "tons_composting": 283907.0,
+      "tons_donations": 98209.0,
+      "landfill_rate": 0.1491,
+      "diversion_rate": 0.3814,
+      "us_dollars_surplus": 8778911754.0,
+      "co2e": 4306491.0
+    },
+    "West Virginia": {
+      "tons_surplus": 251073.0,
+      "tons_waste": 229895.0,
+      "tons_landfill": 141698.0,
+      "tons_composting": 47821.0,
+      "tons_donations": 5797.0,
+      "landfill_rate": 0.6164,
+      "diversion_rate": 0.299,
+      "us_dollars_surplus": 1683371299.0,
+      "co2e": 1001391.0
+    },
+    "Wisconsin": {
+      "tons_surplus": 3076702.0,
+      "tons_waste": 2674529.0,
+      "tons_landfill": 427569.0,
+      "tons_composting": 190796.0,
+      "tons_donations": 73141.0,
+      "landfill_rate": 0.1599,
+      "diversion_rate": 0.3349,
+      "us_dollars_surplus": 10551645220.0,
+      "co2e": 8418555.0
+    },
+    "Wyoming": {
+      "tons_surplus": 85868.0,
+      "tons_waste": 79529.0,
+      "tons_landfill": 54567.0,
+      "tons_composting": 18903.0,
+      "tons_donations": 2075.0,
+      "landfill_rate": 0.6861,
+      "diversion_rate": 0.3085,
+      "us_dollars_surplus": 684845437.0,
+      "co2e": 386579.0
+    }
+  },
+  "top10_landfill_rate": [
+    {
+      "state": "Nevada",
+      "landfill_rate": 0.7511194964097242
+    },
+    {
+      "state": "Wyoming",
+      "landfill_rate": 0.6861364814410363
+    },
+    {
+      "state": "Alaska",
+      "landfill_rate": 0.6778539915225578
+    },
+    {
+      "state": "Montana",
+      "landfill_rate": 0.6732350825118009
+    },
+    {
+      "state": "Kansas",
+      "landfill_rate": 0.6645301553529901
+    },
+    {
+      "state": "Texas",
+      "landfill_rate": 0.6439182518158771
+    },
+    {
+      "state": "Colorado",
+      "landfill_rate": 0.6436676162382978
+    },
+    {
+      "state": "Kentucky",
+      "landfill_rate": 0.6382204372751107
+    },
+    {
+      "state": "Tennessee",
+      "landfill_rate": 0.628244597550732
+    },
+    {
+      "state": "West Virginia",
+      "landfill_rate": 0.6163611923015154
+    }
+  ],
+  "bottom10_landfill_rate": [
+    {
+      "state": "Connecticut",
+      "landfill_rate": 0.050411587105081555
+    },
+    {
+      "state": "Washington",
+      "landfill_rate": 0.14907214853283085
+    },
+    {
+      "state": "Maine",
+      "landfill_rate": 0.15754426639739014
+    },
+    {
+      "state": "Massachusetts",
+      "landfill_rate": 0.1592386215098613
+    },
+    {
+      "state": "Wisconsin",
+      "landfill_rate": 0.15986684151829314
+    },
+    {
+      "state": "California",
+      "landfill_rate": 0.18408814656575537
+    },
+    {
+      "state": "Minnesota",
+      "landfill_rate": 0.259345823878497
+    },
+    {
+      "state": "New York",
+      "landfill_rate": 0.2700408469048474
+    },
+    {
+      "state": "Oregon",
+      "landfill_rate": 0.27067482272877275
+    },
+    {
+      "state": "Idaho",
+      "landfill_rate": 0.27176543074078335
+    }
+  ],
+  "top10_diversion_rate": [
+    {
+      "state": "North Dakota",
+      "diversion_rate": 1.2106507934826432
+    },
+    {
+      "state": "Louisiana",
+      "diversion_rate": 1.0346457992494305
+    },
+    {
+      "state": "Iowa",
+      "diversion_rate": 0.7629511165572812
+    },
+    {
+      "state": "Minnesota",
+      "diversion_rate": 0.6204260695322968
+    },
+    {
+      "state": "Nebraska",
+      "diversion_rate": 0.5977295280019269
+    },
+    {
+      "state": "Idaho",
+      "diversion_rate": 0.5719067542519777
+    },
+    {
+      "state": "Arkansas",
+      "diversion_rate": 0.5569584207080692
+    },
+    {
+      "state": "Illinois",
+      "diversion_rate": 0.5331096425673185
+    },
+    {
+      "state": "Oregon",
+      "diversion_rate": 0.49120489739501233
+    },
+    {
+      "state": "New Jersey",
+      "diversion_rate": 0.48695765511750067
+    }
+  ],
+  "bottom10_diversion_rate": [
+    {
+      "state": "Arizona",
+      "diversion_rate": 0.20469488846181993
+    },
+    {
+      "state": "California",
+      "diversion_rate": 0.24690386948946078
+    },
+    {
+      "state": "Nevada",
+      "diversion_rate": 0.25857294546799475
+    },
+    {
+      "state": "South Dakota",
+      "diversion_rate": 0.29340568745690476
+    },
+    {
+      "state": "West Virginia",
+      "diversion_rate": 0.2990071518575929
+    },
+    {
+      "state": "Georgia",
+      "diversion_rate": 0.30468667323355253
+    },
+    {
+      "state": "Alabama",
+      "diversion_rate": 0.3076158545540299
+    },
+    {
+      "state": "Hawaii",
+      "diversion_rate": 0.3077251845495826
+    },
+    {
+      "state": "North Carolina",
+      "diversion_rate": 0.3078916893934356
+    },
+    {
+      "state": "Wyoming",
+      "diversion_rate": 0.30848530398514734
+    }
+  ],
+  "ban_vs_nonban": {
+    "ban_states": {
+      "n": 12,
+      "mean_landfill_rate": 0.2564,
+      "mean_diversion_rate": 0.4228
+    },
+    "nonban_states": {
+      "n": 38,
+      "mean_landfill_rate": 0.5289,
+      "mean_diversion_rate": 0.4276
+    }
+  }
+}

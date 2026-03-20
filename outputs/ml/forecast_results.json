@@ -1,0 +1,51 @@
+{
+  "method": "Prophet",
+  "national_landfill_forecast": [
+    {
+      "year": 2025,
+      "tons_landfill_predicted": 23984822.0,
+      "lower": 21386170.0,
+      "upper": 26809713.0
+    },
+    {
+      "year": 2026,
+      "tons_landfill_predicted": 24623218.0,
+      "lower": 22048403.0,
+      "upper": 27392394.0
+    },
+    {
+      "year": 2027,
+      "tons_landfill_predicted": 25261615.0,
+      "lower": 22531955.0,
+      "upper": 27995428.0
+    },
+    {
+      "year": 2028,
+      "tons_landfill_predicted": 25901760.0,
+      "lower": 23162823.0,
+      "upper": 28753299.0
+    },
+    {
+      "year": 2029,
+      "tons_landfill_predicted": 26540156.0,
+      "lower": 23598676.0,
+      "upper": 29348193.0
+    }
+  ],
+  "bau_2030_tons_landfill": 26540156.0,
+  "current_2024_tons_landfill": 23010244.0,
+  "sector_forecasts": {
+    "Residential": {
+      "forecast_2030": 10479091.0,
+      "trend_slope_per_year": 14517.0
+    },
+    "Foodservice": {
+      "forecast_2030": 12173497.0,
+      "trend_slope_per_year": 267577.0
+    },
+    "Retail": {
+      "forecast_2030": 1735423.0,
+      "trend_slope_per_year": 28286.0
+    }
+  }
+}

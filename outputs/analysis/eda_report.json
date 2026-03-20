@@ -1,0 +1,997 @@
+{
+  "overview_2024": {
+    "total_surplus_tons": 70716872.02,
+    "total_waste_tons": 59771683.27,
+    "total_dollars": 384143354627.49,
+    "total_landfill_tons": 23010243.92,
+    "total_donations_tons": 1778826.5,
+    "total_composting_tons": 11516777.34,
+    "total_co2e_mt": 221012599.67,
+    "total_water_gallons": 15871808111448.51,
+    "total_meals_wasted": 114896742532.81
+  },
+  "sector_breakdown_2024": {
+    "Farm": {
+      "tons_surplus": 16921937.256061263,
+      "tons_waste": 14823673.912105814,
+      "tons_landfill": 190564.93894920917,
+      "tons_donations": 267419.928204455,
+      "us_dollars": 13367948538.195444,
+      "co2e_mt": 3562336.6866746927,
+      "pct_of_surplus": 23.93,
+      "pct_of_landfill": 0.83
+    },
+    "Foodservice": {
+      "tons_surplus": 12537541.853836246,
+      "tons_waste": 12413473.921534164,
+      "tons_landfill": 9727428.612731695,
+      "tons_donations": 107492.64954648058,
+      "us_dollars": 156522069906.27368,
+      "co2e_mt": 63606933.654132634,
+      "pct_of_surplus": 17.73,
+      "pct_of_landfill": 42.27
+    },
+    "Manufacturing": {
+      "tons_surplus": 13167948.608540205,
+      "tons_waste": 6670101.456324429,
+      "tons_landfill": 481824.9930062531,
+      "tons_donations": 508172.0397742245,
+      "us_dollars": 42684293710.08207,
+      "co2e_mt": 38646848.05608039,
+      "pct_of_surplus": 18.62,
+      "pct_of_landfill": 2.09
+    },
+    "Residential": {
+      "tons_surplus": 23463708.3257966,
+      "tons_waste": 23163049.391989138,
+      "tons_landfill": 11215770.899033882,
+      "tons_donations": 0.0,
+      "us_dollars": 141234166786.21344,
+      "co2e_mt": 100047989.44226517,
+      "pct_of_surplus": 33.18,
+      "pct_of_landfill": 48.74
+    },
+    "Retail": {
+      "tons_surplus": 4625735.971338593,
+      "tons_waste": 2701384.588437606,
+      "tons_landfill": 1394654.475323536,
+      "tons_donations": 895741.8783635164,
+      "us_dollars": 30334875686.726578,
+      "co2e_mt": 15148491.831979545,
+      "pct_of_surplus": 6.54,
+      "pct_of_landfill": 6.06
+    }
+  },
+  "food_type_breakdown_2024": {
+    "Breads & Bakery": {
+      "tons_surplus": 2627026.0753846406,
+      "tons_waste": 2233489.884504021,
+      "tons_landfill": 1308610.363394942,
+      "pct": 3.71
+    },
+    "Dairy & Eggs": {
+      "tons_surplus": 9040635.074773613,
+      "tons_waste": 7808878.214667182,
+      "tons_landfill": 1128213.07387083,
+      "pct": 12.78
+    },
+    "Dry Goods": {
+      "tons_surplus": 6929937.2046827655,
+      "tons_waste": 4817886.201764153,
+      "tons_landfill": 2310251.7117573763,
+      "pct": 9.8
+    },
+    "Fresh Meat & Seafood": {
+      "tons_surplus": 3588492.9640126014,
+      "tons_waste": 1985911.5478747345,
+      "tons_landfill": 1259158.2646648653,
+      "pct": 5.07
+    },
+    "Frozen": {
+      "tons_surplus": 1537554.050539864,
+      "tons_waste": 1363764.6023442794,
+      "tons_landfill": 857150.6112829758,
+      "pct": 2.17
+    },
+    "Prepared Foods": {
+      "tons_surplus": 13968405.502606764,
+      "tons_waste": 13553695.90621338,
+      "tons_landfill": 10063041.329466281,
+      "pct": 19.75
+    },
+    "Produce": {
+      "tons_surplus": 32067439.07031596,
+      "tons_waste": 27126576.19563434,
+      "tons_landfill": 5682612.821468513,
+      "pct": 45.35
+    },
+    "Ready-To-Drink Beverages": {
+      "tons_surplus": 957382.0732566974,
+      "tons_waste": 881480.7173890625,
+      "tons_landfill": 401205.74313879083,
+      "pct": 1.35
+    }
+  },
+  "destination_breakdown_2024": {
+    "landfill": {
+      "tons": 23010243.92,
+      "pct_of_waste": 38.5
+    },
+    "composting": {
+      "tons": 11516777.34,
+      "pct_of_waste": 19.27
+    },
+    "donations": {
+      "tons": 1778826.5,
+      "pct_of_waste": 2.98
+    },
+    "animal_feed": {
+      "tons": 8029483.47,
+      "pct_of_waste": 13.43
+    },
+    "anaerobic_digestion": {
+      "tons": 1116801.85,
+      "pct_of_waste": 1.87
+    },
+    "sewer": {
+      "tons": 2738739.21,
+      "pct_of_waste": 4.58
+    },
+    "dumping": {
+      "tons": 646376.89,
+      "pct_of_waste": 1.08
+    },
+    "incineration": {
+      "tons": 2837365.07,
+      "pct_of_waste": 4.75
+    },
+    "land_application": {
+      "tons": 3934903.44,
+      "pct_of_waste": 6.58
+    },
+    "not_harvested": {
+      "tons": 13970475.55,
+      "pct_of_waste": 23.37
+    },
+    "industrial_uses": {
+      "tons": 1136898.42,
+      "pct_of_waste": 1.9
+    }
+  },
+  "cause_breakdown_2024": {
+    "by_group": {
+      "Trimmings & Byproducts": 21287272.46,
+      "Excess": 16629339.72,
+      "Not Harvested": 13970475.46,
+      "Spoiled": 9148571.95,
+      "Date Label Concerns": 3832594.21,
+      "Buyer Rejections": 1643752.44,
+      "Food Safety": 1567863.58,
+      "Other": 1343157.96,
+      "Mistakes & Malfunctions": 1292266.77
+    },
+    "by_name_top15": {
+      "Byproducts & Production Line Waste": 11865824.11,
+      "Plate Waste": 8724320.6,
+      "Spoiled": 7143580.63,
+      "Inedible Parts": 6797179.14,
+      "Left Behind After Harvest (Inedible)": 5022912.93,
+      "Left Behind After Harvest (Not Marketable)": 4622454.27,
+      "Date Label Concerns": 3832594.21,
+      "Left Behind After Harvest (Marketable)": 3803008.12,
+      "Considered Inedible": 2308120.62,
+      "Didn't Want Leftovers": 2276041.9,
+      "Packhouse Losses (Inedible)": 2004991.32,
+      "Overproduction": 1881688.23,
+      "Buyer Rejections": 1643752.44,
+      "Left Out Too Long": 1565550.72,
+      "Other": 1273771.92
+    }
+  },
+  "sector_x_cause_2024": {
+    "Farm": [
+      {
+        "cause": "Left Behind After Harvest (Inedible)",
+        "tons": 5022912.93,
+        "pct": 31.25
+      },
+      {
+        "cause": "Left Behind After Harvest (Not Marketable)",
+        "tons": 4622454.27,
+        "pct": 28.76
+      },
+      {
+        "cause": "Left Behind After Harvest (Marketable)",
+        "tons": 3803008.12,
+        "pct": 23.66
+      },
+      {
+        "cause": "Packhouse Losses (Inedible)",
+        "tons": 2004991.32,
+        "pct": 12.47
+      },
+      {
+        "cause": "Buyer Rejections",
+        "tons": 620465.04,
+        "pct": 3.86
+      }
+    ],
+    "Foodservice": [
+      {
+        "cause": "Plate Waste",
+        "tons": 8724320.6,
+        "pct": 71.89
+      },
+      {
+        "cause": "Overproduction",
+        "tons": 1490018.97,
+        "pct": 12.28
+      },
+      {
+        "cause": "Catering Overproduction",
+        "tons": 1128163.12,
+        "pct": 9.3
+      },
+      {
+        "cause": "Date Label Concerns",
+        "tons": 400045.78,
+        "pct": 3.3
+      },
+      {
+        "cause": "Spoiled",
+        "tons": 393052.0,
+        "pct": 3.24
+      }
+    ],
+    "Manufacturing": [
+      {
+        "cause": "Byproducts & Production Line Waste",
+        "tons": 11865824.11,
+        "pct": 90.11
+      },
+      {
+        "cause": "Buyer Rejections",
+        "tons": 1023287.4,
+        "pct": 7.77
+      },
+      {
+        "cause": "Unshipped Finished Product",
+        "tons": 278837.1,
+        "pct": 2.12
+      }
+    ],
+    "Residential": [
+      {
+        "cause": "Inedible Parts",
+        "tons": 6797179.14,
+        "pct": 36.13
+      },
+      {
+        "cause": "Spoiled",
+        "tons": 5864689.49,
+        "pct": 31.18
+      },
+      {
+        "cause": "Considered Inedible",
+        "tons": 2308120.62,
+        "pct": 12.27
+      },
+      {
+        "cause": "Didn't Want Leftovers",
+        "tons": 2276041.9,
+        "pct": 12.1
+      },
+      {
+        "cause": "Left Out Too Long",
+        "tons": 1565550.72,
+        "pct": 8.32
+      }
+    ],
+    "Retail": [
+      {
+        "cause": "Date Label Concerns",
+        "tons": 2179989.24,
+        "pct": 48.67
+      },
+      {
+        "cause": "Spoiled",
+        "tons": 885839.14,
+        "pct": 19.78
+      },
+      {
+        "cause": "Handling Errors",
+        "tons": 732064.28,
+        "pct": 16.34
+      },
+      {
+        "cause": "Overproduction",
+        "tons": 391669.25,
+        "pct": 8.74
+      },
+      {
+        "cause": "Equipment Issues",
+        "tons": 289465.15,
+        "pct": 6.46
+      }
+    ]
+  },
+  "trend_2010_2024": {
+    "yearly_totals": [
+      {
+        "year": 2010,
+        "total_surplus": 62042946.347927526,
+        "total_waste": 53007794.74986031,
+        "total_landfill": 18135897.86492139
+      },
+      {
+        "year": 2011,
+        "total_surplus": 64161200.95159229,
+        "total_waste": 54415192.156048305,
+        "total_landfill": 18642854.640887164
+      },
+      {
+        "year": 2012,
+        "total_surplus": 65321550.594013914,
+        "total_waste": 55229734.67537354,
+        "total_landfill": 19120970.54235499
+      },
+      {
+        "year": 2013,
+        "total_surplus": 67027855.529172696,
+        "total_waste": 56446834.01433893,
+        "total_landfill": 19655944.16358236
+      },
+      {
+        "year": 2014,
+        "total_surplus": 68923464.49538493,
+        "total_waste": 58015704.375647776,
+        "total_landfill": 20130925.95695911
+      },
+      {
+        "year": 2015,
+        "total_surplus": 68940183.37712184,
+        "total_waste": 58148182.30696208,
+        "total_landfill": 20640784.427501347
+      },
+      {
+        "year": 2016,
+        "total_surplus": 71093616.01382233,
+        "total_waste": 59997798.78870835,
+        "total_landfill": 21587363.090963103
+      },
+      {
+        "year": 2017,
+        "total_surplus": 71130353.08659232,
+        "total_waste": 60097636.75874778,
+        "total_landfill": 21591418.387684043
+      },
+      {
+        "year": 2018,
+        "total_surplus": 73047067.47790296,
+        "total_waste": 61798474.36791328,
+        "total_landfill": 23179720.59847821
+      },
+      {
+        "year": 2019,
+        "total_surplus": 74633036.90749231,
+        "total_waste": 63279538.72059291,
+        "total_landfill": 22931703.593562577
+      },
+      {
+        "year": 2020,
+        "total_surplus": 56399227.433709204,
+        "total_waste": 45455577.07547034,
+        "total_landfill": 14308919.156550545
+      },
+      {
+        "year": 2021,
+        "total_surplus": 62281904.56437499,
+        "total_waste": 51203334.88019737,
+        "total_landfill": 18459841.077341516
+      },
+      {
+        "year": 2022,
+        "total_surplus": 69209517.37139286,
+        "total_waste": 58413638.37754042,
+        "total_landfill": 22695733.804239698
+      },
+      {
+        "year": 2023,
+        "total_surplus": 72218032.96495584,
+        "total_waste": 61193666.829136945,
+        "total_landfill": 23506731.793642882
+      },
+      {
+        "year": 2024,
+        "total_surplus": 70716872.0155729,
+        "total_waste": 59771683.27039115,
+        "total_landfill": 23010243.919044577
+      }
+    ],
+    "by_sector": {
+      "Farm": [
+        {
+          "year": 2010,
+          "surplus": 18604026.98260958,
+          "waste": 16575716.152535522,
+          "landfill": 187345.9060695389
+        },
+        {
+          "year": 2011,
+          "surplus": 18582477.01271025,
+          "waste": 16509933.264957018,
+          "landfill": 192718.43039769263
+        },
+        {
+          "year": 2012,
+          "surplus": 18688339.535638697,
+          "waste": 16609596.111111674,
+          "landfill": 199104.063707486
+        },
+        {
+          "year": 2013,
+          "surplus": 18697552.334263545,
+          "waste": 16585041.151242899,
+          "landfill": 194789.65583281431
+        },
+        {
+          "year": 2014,
+          "surplus": 19039363.08771853,
+          "waste": 16831111.814758588,
+          "landfill": 200824.5820151384
+        },
+        {
+          "year": 2015,
+          "surplus": 18434210.526187234,
+          "waste": 16335418.7100563,
+          "landfill": 197020.66649461185
+        },
+        {
+          "year": 2016,
+          "surplus": 19486183.719570193,
+          "waste": 17213625.866007343,
+          "landfill": 207386.6676689503
+        },
+        {
+          "year": 2017,
+          "surplus": 19597924.873753447,
+          "waste": 17300740.06114638,
+          "landfill": 209192.360085906
+        },
+        {
+          "year": 2018,
+          "surplus": 18647403.727813974,
+          "waste": 16425714.408869442,
+          "landfill": 202805.8102151431
+        },
+        {
+          "year": 2019,
+          "surplus": 19003498.744604107,
+          "waste": 16751694.41961676,
+          "landfill": 204119.39864661152
+        },
+        {
+          "year": 2020,
+          "surplus": 18705857.26201198,
+          "waste": 16552032.193057578,
+          "landfill": 202258.51181132428
+        },
+        {
+          "year": 2021,
+          "surplus": 17790597.40661308,
+          "waste": 15680799.66431848,
+          "landfill": 194795.39718929707
+        },
+        {
+          "year": 2022,
+          "surplus": 17119618.751549624,
+          "waste": 15080899.733122215,
+          "landfill": 184553.14288913604
+        },
+        {
+          "year": 2023,
+          "surplus": 17614921.09510862,
+          "waste": 15453922.975384425,
+          "landfill": 195821.3888889032
+        },
+        {
+          "year": 2024,
+          "surplus": 16921937.256061263,
+          "waste": 14823673.912105814,
+          "landfill": 190564.93894920917
+        }
+      ],
+      "Foodservice": [
+        {
+          "year": 2010,
+          "surplus": 9461467.523717985,
+          "waste": 9432701.328877449,
+          "landfill": 6780122.154667022
+        },
+        {
+          "year": 2011,
+          "surplus": 9601399.378251119,
+          "waste": 9572052.81363797,
+          "landfill": 6879898.433101616
+        },
+        {
+          "year": 2012,
+          "surplus": 9958415.32936856,
+          "waste": 9927915.703088518,
+          "landfill": 7136081.071589289
+        },
+        {
+          "year": 2013,
+          "surplus": 10216076.069358919,
+          "waste": 10184764.153428072,
+          "landfill": 7323362.428590248
+        },
+        {
+          "year": 2014,
+          "surplus": 10545842.119058697,
+          "waste": 10513555.824131489,
+          "landfill": 7558116.9696445
+        },
+        {
+          "year": 2015,
+          "surplus": 11137807.65516884,
+          "waste": 11103853.996160707,
+          "landfill": 7991219.255984425
+        },
+        {
+          "year": 2016,
+          "surplus": 11531486.13626289,
+          "waste": 11489312.446051873,
+          "landfill": 8689358.98356488
+        },
+        {
+          "year": 2017,
+          "surplus": 11686496.666444177,
+          "waste": 11631527.699236719,
+          "landfill": 8814624.86800232
+        },
+        {
+          "year": 2018,
+          "surplus": 13815590.083313419,
+          "waste": 13681872.097440206,
+          "landfill": 10377100.995175775
+        },
+        {
+          "year": 2019,
+          "surplus": 14237519.328877188,
+          "waste": 14120166.622271443,
+          "landfill": 9890027.865465758
+        },
+        {
+          "year": 2020,
+          "surplus": 9074998.734204674,
+          "waste": 9011204.245702764,
+          "landfill": 7157981.08711925
+        },
+        {
+          "year": 2021,
+          "surplus": 11797037.315862367,
+          "waste": 11731030.831669103,
+          "landfill": 9489648.26269275
+        },
+        {
+          "year": 2022,
+          "surplus": 12772764.710972507,
+          "waste": 12645964.176609406,
+          "landfill": 10341095.384485535
+        },
+        {
+          "year": 2023,
+          "surplus": 12528565.962538756,
+          "waste": 12405632.216065602,
+          "landfill": 9929210.528438011
+        },
+        {
+          "year": 2024,
+          "surplus": 12537541.853836246,
+          "waste": 12413473.921534164,
+          "landfill": 9727428.612731695
+        }
+      ],
+      "Manufacturing": [
+        {
+          "year": 2010,
+          "surplus": 9944397.863188472,
+          "waste": 4573054.890103012,
+          "landfill": 392837.5483136748
+        },
+        {
+          "year": 2011,
+          "surplus": 11140299.507399356,
+          "waste": 5215509.59058452,
+          "landfill": 435543.3443791422
+        },
+        {
+          "year": 2012,
+          "surplus": 11350283.799270356,
+          "waste": 5193185.72984881,
+          "landfill": 450971.87745303864
+        },
+        {
+          "year": 2013,
+          "surplus": 12050803.373812065,
+          "waste": 5555378.645576106,
+          "landfill": 473420.01400046016
+        },
+        {
+          "year": 2014,
+          "surplus": 12728282.44108729,
+          "waste": 6116792.811452998,
+          "landfill": 480959.825488298
+        },
+        {
+          "year": 2015,
+          "surplus": 12395142.066888044,
+          "waste": 5898321.593573915,
+          "landfill": 469477.8462646592
+        },
+        {
+          "year": 2016,
+          "surplus": 12514426.266413445,
+          "waste": 6018603.098041996,
+          "landfill": 464907.931748039
+        },
+        {
+          "year": 2017,
+          "surplus": 12497429.584007926,
+          "waste": 6145107.984380956,
+          "landfill": 456445.6230015086
+        },
+        {
+          "year": 2018,
+          "surplus": 12834986.594429936,
+          "waste": 6411620.6292747175,
+          "landfill": 473181.8659619977
+        },
+        {
+          "year": 2019,
+          "surplus": 13080760.94213247,
+          "waste": 6689912.839970023,
+          "landfill": 474108.1271292609
+        },
+        {
+          "year": 2020,
+          "surplus": 13124539.781184511,
+          "waste": 6782275.800744545,
+          "landfill": 475166.5218684433
+        },
+        {
+          "year": 2021,
+          "surplus": 13285356.887894612,
+          "waste": 6691320.368952468,
+          "landfill": 491967.2591793575
+        },
+        {
+          "year": 2022,
+          "surplus": 13109821.146990607,
+          "waste": 6567744.290124995,
+          "landfill": 487062.0968372738
+        },
+        {
+          "year": 2023,
+          "surplus": 13153583.541716117,
+          "waste": 6618715.545336715,
+          "landfill": 484407.06711183407
+        },
+        {
+          "year": 2024,
+          "surplus": 13167948.608540205,
+          "waste": 6670101.456324429,
+          "landfill": 481824.9930062531
+        }
+      ],
+      "Residential": [
+        {
+          "year": 2010,
+          "surplus": 20742808.950329814,
+          "waste": 20474194.79584753,
+          "landfill": 9772908.238058524
+        },
+        {
+          "year": 2011,
+          "surplus": 21308821.649695773,
+          "waste": 21026575.00627633,
+          "landfill": 10060298.970940603
+        },
+        {
+          "year": 2012,
+          "surplus": 21550528.547538184,
+          "waste": 21264364.70864062,
+          "landfill": 10186336.418869372
+        },
+        {
+          "year": 2013,
+          "surplus": 22035848.967848226,
+          "waste": 21738873.07251485,
+          "landfill": 10439443.768224165
+        },
+        {
+          "year": 2014,
+          "surplus": 22319937.732875973,
+          "waste": 22018194.82998451,
+          "landfill": 10586955.826389756
+        },
+        {
+          "year": 2015,
+          "surplus": 22410210.234701905,
+          "waste": 22115268.76239236,
+          "landfill": 10596734.798176339
+        },
+        {
+          "year": 2016,
+          "surplus": 22715715.746677887,
+          "waste": 22415720.38601951,
+          "landfill": 10754017.542076392
+        },
+        {
+          "year": 2017,
+          "surplus": 22395181.902497176,
+          "waste": 22099172.295296177,
+          "landfill": 10607195.265854387
+        },
+        {
+          "year": 2018,
+          "surplus": 22432716.1180103,
+          "waste": 22147021.893355098,
+          "landfill": 10519310.920545371
+        },
+        {
+          "year": 2019,
+          "surplus": 22705692.479441095,
+          "waste": 22418102.786049552,
+          "landfill": 10668486.308593793
+        },
+        {
+          "year": 2020,
+          "surplus": 10000137.951184087,
+          "waste": 9870556.43859748,
+          "landfill": 4807618.222990069
+        },
+        {
+          "year": 2021,
+          "surplus": 14257132.632028952,
+          "waste": 14075614.73836777,
+          "landfill": 6726826.612699528
+        },
+        {
+          "year": 2022,
+          "surplus": 21827859.019655373,
+          "waste": 21556397.145253673,
+          "landfill": 10364988.450535992
+        },
+        {
+          "year": 2023,
+          "surplus": 24359048.91390501,
+          "waste": 24050358.04305461,
+          "landfill": 11522341.177064652
+        },
+        {
+          "year": 2024,
+          "surplus": 23463708.3257966,
+          "waste": 23163049.391989138,
+          "landfill": 11215770.899033882
+        }
+      ],
+      "Retail": [
+        {
+          "year": 2010,
+          "surplus": 3290245.028081672,
+          "waste": 1952127.5824967958,
+          "landfill": 1002684.0178126311
+        },
+        {
+          "year": 2011,
+          "surplus": 3528203.403535788,
+          "waste": 2091121.4805924615,
+          "landfill": 1074395.4620681107
+        },
+        {
+          "year": 2012,
+          "surplus": 3773983.3821981177,
+          "waste": 2234672.4226839175,
+          "landfill": 1148477.110735803
+        },
+        {
+          "year": 2013,
+          "surplus": 4027574.7838899414,
+          "waste": 2382776.9915770055,
+          "landfill": 1224928.296934673
+        },
+        {
+          "year": 2014,
+          "surplus": 4290039.114644442,
+          "waste": 2536049.0953201875,
+          "landfill": 1304068.7534214167
+        },
+        {
+          "year": 2015,
+          "surplus": 4562812.894175817,
+          "waste": 2695319.244778795,
+          "landfill": 1386331.8605813142
+        },
+        {
+          "year": 2016,
+          "surplus": 4845804.14489792,
+          "waste": 2860536.9925876316,
+          "landfill": 1471691.9659048412
+        },
+        {
+          "year": 2017,
+          "surplus": 4953320.05988959,
+          "waste": 2921088.71868755,
+          "landfill": 1503960.2707399214
+        },
+        {
+          "year": 2018,
+          "surplus": 5316370.954335336,
+          "waste": 3132245.3389738216,
+          "landfill": 1607321.006579922
+        },
+        {
+          "year": 2019,
+          "surplus": 5605565.412437452,
+          "waste": 3299662.0526851267,
+          "landfill": 1694961.8937271528
+        },
+        {
+          "year": 2020,
+          "surplus": 5493693.7051239535,
+          "waste": 3239508.397367974,
+          "landfill": 1665894.8127614597
+        },
+        {
+          "year": 2021,
+          "surplus": 5151780.321975978,
+          "waste": 3024569.2768895444,
+          "landfill": 1556603.5455805836
+        },
+        {
+          "year": 2022,
+          "surplus": 4379453.742224749,
+          "waste": 2562633.032430129,
+          "landfill": 1318034.7294917614
+        },
+        {
+          "year": 2023,
+          "surplus": 4561913.451687324,
+          "waste": 2665038.049295587,
+          "landfill": 1374951.6321394823
+        },
+        {
+          "year": 2024,
+          "surplus": 4625735.971338593,
+          "waste": 2701384.588437606,
+          "landfill": 1394654.475323536
+        }
+      ]
+    }
+  },
+  "waste_intensity_2024": {
+    "Farm": {
+      "Breads & Bakery": 0.0,
+      "Dairy & Eggs": 0.0,
+      "Dry Goods": 0.0264,
+      "Fresh Meat & Seafood": 0.0,
+      "Frozen": 0.0,
+      "Prepared Foods": 0.0,
+      "Produce": 0.1535,
+      "Ready-To-Drink Beverages": 0.0
+    },
+    "Foodservice": {
+      "Breads & Bakery": 0.0184,
+      "Dairy & Eggs": 0.0184,
+      "Dry Goods": 0.0183,
+      "Fresh Meat & Seafood": 0.0184,
+      "Frozen": 0.0183,
+      "Prepared Foods": Infinity,
+      "Produce": 0.0184,
+      "Ready-To-Drink Beverages": 0.0179
+    },
+    "Manufacturing": {
+      "Breads & Bakery": 0.1178,
+      "Dairy & Eggs": 0.0205,
+      "Dry Goods": 0.0113,
+      "Fresh Meat & Seafood": 0.0013,
+      "Frozen": 1.7094,
+      "Prepared Foods": 0.1037,
+      "Produce": 0.0082,
+      "Ready-To-Drink Beverages": 5.0533
+    },
+    "Residential": {
+      "Breads & Bakery": 0.2718,
+      "Dairy & Eggs": 0.0812,
+      "Dry Goods": 0.0832,
+      "Fresh Meat & Seafood": 0.1129,
+      "Frozen": 0.09,
+      "Prepared Foods": 0.1071,
+      "Produce": 0.3645,
+      "Ready-To-Drink Beverages": 0.029
+    },
+    "Retail": {
+      "Breads & Bakery": 0.0493,
+      "Dairy & Eggs": 0.0122,
+      "Dry Goods": 0.008,
+      "Fresh Meat & Seafood": 0.0231,
+      "Frozen": 0.0059,
+      "Prepared Foods": 0.0522,
+      "Produce": 0.0333,
+      "Ready-To-Drink Beverages": 0.0088
+    }
+  },
+  "environmental_impact_2024": {
+    "total_co2e_mt": 221012599.67,
+    "total_water_gallons": 15871808111448.51,
+    "by_sector": {
+      "Farm": {
+        "co2e": 3562336.69,
+        "water": 620544289016.35
+      },
+      "Foodservice": {
+        "co2e": 63606933.65,
+        "water": 5729851158906.58
+      },
+      "Manufacturing": {
+        "co2e": 38646848.06,
+        "water": 3864586165882.21
+      },
+      "Residential": {
+        "co2e": 100047989.44,
+        "water": 4537495818987.61
+      },
+      "Retail": {
+        "co2e": 15148491.83,
+        "water": 1119330678655.76
+      }
+    },
+    "co2e_per_ton": 3.1253,
+    "car_equivalents": 48046217.0
+  },
+  "donation_gap_analysis": {
+    "Farm": {
+      "total_uneaten": 16654517.32785681,
+      "total_donated": 267419.928204455,
+      "donation_rate_pct": 1.6057
+    },
+    "Foodservice": {
+      "total_uneaten": 12430049.204289766,
+      "total_donated": 107492.64954648058,
+      "donation_rate_pct": 0.8648
+    },
+    "Manufacturing": {
+      "total_uneaten": 12659776.56876598,
+      "total_donated": 508172.0397742245,
+      "donation_rate_pct": 4.0141
+    },
+    "Residential": {
+      "total_uneaten": 23463708.3257966,
+      "total_donated": 0.0,
+      "donation_rate_pct": 0.0
+    },
+    "Retail": {
+      "total_uneaten": 3729994.0929750768,
+      "total_donated": 895741.8783635164,
+      "donation_rate_pct": 24.0146
+    }
+  },
+  "covid_impact": {
+    "2019": {
+      "total_surplus": 74633036.91,
+      "total_waste": 63279538.72
+    },
+    "2020": {
+      "total_surplus": 56399227.43,
+      "total_waste": 45455577.08
+    },
+    "2021": {
+      "total_surplus": 62281904.56,
+      "total_waste": 51203334.88
+    },
+    "drop_pct_2019_2020": -24.43,
+    "recovery_pct_2020_2021": 10.43
+  }
+}

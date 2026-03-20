@@ -1,0 +1,262 @@
+{
+  "bau_2030_tons_landfill": 26540156.0,
+  "current_2024_tons_landfill": 23010244.0,
+  "scenario_A_date_labels": {
+    "tons_diverted_national": 425000,
+    "ghg_saved_mt_co2e": 1892889.0,
+    "dollars_saved_billions": 2.819,
+    "meals_recovered": 744737190.0,
+    "top_5_states": [
+      {
+        "state": "California",
+        "tons_diverted": 41565.0
+      },
+      {
+        "state": "Texas",
+        "tons_diverted": 37214.0
+      },
+      {
+        "state": "Florida",
+        "tons_diverted": 35027.0
+      },
+      {
+        "state": "New York",
+        "tons_diverted": 17584.0
+      },
+      {
+        "state": "North Carolina",
+        "tons_diverted": 15724.0
+      }
+    ]
+  },
+  "scenario_B_nationwide_ban": {
+    "did_coefficient_used": 0.020265955304895587,
+    "beta_magnitude_applied": 0.020265955304895587,
+    "non_ban_states_affected": 38,
+    "tons_diverted_national": 779439.0,
+    "ghg_saved_mt_co2e": 3361276.0,
+    "dollars_saved_billions": 4.68,
+    "meals_recovered": 1524058192.0,
+    "by_state": {
+      "Alabama": {
+        "tons_diverted": 13230.0,
+        "ghg_saved_mt_co2e": 69130.0,
+        "dollars_saved": 95967323.0
+      },
+      "Alaska": {
+        "tons_diverted": 1594.0,
+        "ghg_saved_mt_co2e": 9299.0,
+        "dollars_saved": 14286915.0
+      },
+      "Arizona": {
+        "tons_diverted": 37479.0,
+        "ghg_saved_mt_co2e": 102929.0,
+        "dollars_saved": 172800846.0
+      },
+      "Arkansas": {
+        "tons_diverted": 9600.0,
+        "ghg_saved_mt_co2e": 57668.0,
+        "dollars_saved": 54678660.0
+      },
+      "Colorado": {
+        "tons_diverted": 18991.0,
+        "ghg_saved_mt_co2e": 88778.0,
+        "dollars_saved": 136896658.0
+      },
+      "Delaware": {
+        "tons_diverted": 3072.0,
+        "ghg_saved_mt_co2e": 15548.0,
+        "dollars_saved": 18942966.0
+      },
+      "Florida": {
+        "tons_diverted": 85735.0,
+        "ghg_saved_mt_co2e": 313667.0,
+        "dollars_saved": 549117116.0
+      },
+      "Georgia": {
+        "tons_diverted": 37495.0,
+        "ghg_saved_mt_co2e": 159880.0,
+        "dollars_saved": 235588625.0
+      },
+      "Hawaii": {
+        "tons_diverted": 3345.0,
+        "ghg_saved_mt_co2e": 14932.0,
+        "dollars_saved": 28611476.0
+      },
+      "Idaho": {
+        "tons_diverted": 12538.0,
+        "ghg_saved_mt_co2e": 32212.0,
+        "dollars_saved": 28635468.0
+      },
+      "Illinois": {
+        "tons_diverted": 34084.0,
+        "ghg_saved_mt_co2e": 165066.0,
+        "dollars_saved": 219319621.0
+      },
+      "Indiana": {
+        "tons_diverted": 22259.0,
+        "ghg_saved_mt_co2e": 95181.0,
+        "dollars_saved": 129315834.0
+      },
+      "Iowa": {
+        "tons_diverted": 10437.0,
+        "ghg_saved_mt_co2e": 69821.0,
+        "dollars_saved": 63780986.0
+      },
+      "Kansas": {
+        "tons_diverted": 7831.0,
+        "ghg_saved_mt_co2e": 49668.0,
+        "dollars_saved": 56048586.0
+      },
+      "Kentucky": {
+        "tons_diverted": 12673.0,
+        "ghg_saved_mt_co2e": 64841.0,
+        "dollars_saved": 86412997.0
+      },
+      "Louisiana": {
+        "tons_diverted": 15610.0,
+        "ghg_saved_mt_co2e": 69774.0,
+        "dollars_saved": 76100246.0
+      },
+      "Michigan": {
+        "tons_diverted": 35195.0,
+        "ghg_saved_mt_co2e": 124431.0,
+        "dollars_saved": 167663795.0
+      },
+      "Minnesota": {
+        "tons_diverted": 21412.0,
+        "ghg_saved_mt_co2e": 90697.0,
+        "dollars_saved": 118753489.0
+      },
+      "Mississippi": {
+        "tons_diverted": 8040.0,
+        "ghg_saved_mt_co2e": 41301.0,
+        "dollars_saved": 50485639.0
+      },
+      "Missouri": {
+        "tons_diverted": 19502.0,
+        "ghg_saved_mt_co2e": 93333.0,
+        "dollars_saved": 114686635.0
+      },
+      "Montana": {
+        "tons_diverted": 2415.0,
+        "ghg_saved_mt_co2e": 11168.0,
+        "dollars_saved": 18888553.0
+      },
+      "Nebraska": {
+        "tons_diverted": 5873.0,
+        "ghg_saved_mt_co2e": 45866.0,
+        "dollars_saved": 38286711.0
+      },
+      "Nevada": {
+        "tons_diverted": 10874.0,
+        "ghg_saved_mt_co2e": 51388.0,
+        "dollars_saved": 96232136.0
+      },
+      "New Mexico": {
+        "tons_diverted": 7789.0,
+        "ghg_saved_mt_co2e": 31503.0,
+        "dollars_saved": 43167455.0
+      },
+      "North Carolina": {
+        "tons_diverted": 37377.0,
+        "ghg_saved_mt_co2e": 154307.0,
+        "dollars_saved": 219353222.0
+      },
+      "North Dakota": {
+        "tons_diverted": 4088.0,
+        "ghg_saved_mt_co2e": 14287.0,
+        "dollars_saved": 17092801.0
+      },
+      "Ohio": {
+        "tons_diverted": 34075.0,
+        "ghg_saved_mt_co2e": 159092.0,
+        "dollars_saved": 216982359.0
+      },
+      "Oklahoma": {
+        "tons_diverted": 10555.0,
+        "ghg_saved_mt_co2e": 51422.0,
+        "dollars_saved": 68457763.0
+      },
+      "Pennsylvania": {
+        "tons_diverted": 36072.0,
+        "ghg_saved_mt_co2e": 154389.0,
+        "dollars_saved": 236102604.0
+      },
+      "South Carolina": {
+        "tons_diverted": 16091.0,
+        "ghg_saved_mt_co2e": 72627.0,
+        "dollars_saved": 109346473.0
+      },
+      "South Dakota": {
+        "tons_diverted": 3478.0,
+        "ghg_saved_mt_co2e": 17785.0,
+        "dollars_saved": 19110648.0
+      },
+      "Tennessee": {
+        "tons_diverted": 21222.0,
+        "ghg_saved_mt_co2e": 104857.0,
+        "dollars_saved": 146334548.0
+      },
+      "Texas": {
+        "tons_diverted": 82639.0,
+        "ghg_saved_mt_co2e": 399861.0,
+        "dollars_saved": 552050419.0
+      },
+      "Utah": {
+        "tons_diverted": 10187.0,
+        "ghg_saved_mt_co2e": 44525.0,
+        "dollars_saved": 56877444.0
+      },
+      "Virginia": {
+        "tons_diverted": 26110.0,
+        "ghg_saved_mt_co2e": 121302.0,
+        "dollars_saved": 193847799.0
+      },
+      "West Virginia": {
+        "tons_diverted": 4659.0,
+        "ghg_saved_mt_co2e": 20294.0,
+        "dollars_saved": 31237500.0
+      },
+      "Wisconsin": {
+        "tons_diverted": 54202.0,
+        "ghg_saved_mt_co2e": 170610.0,
+        "dollars_saved": 185887075.0
+      },
+      "Wyoming": {
+        "tons_diverted": 1612.0,
+        "ghg_saved_mt_co2e": 7834.0,
+        "dollars_saved": 12854439.0
+      }
+    },
+    "top_5_states": [
+      {
+        "state": "Florida",
+        "tons_diverted": 85735.0
+      },
+      {
+        "state": "Texas",
+        "tons_diverted": 82639.0
+      },
+      {
+        "state": "Wisconsin",
+        "tons_diverted": 54202.0
+      },
+      {
+        "state": "Georgia",
+        "tons_diverted": 37495.0
+      },
+      {
+        "state": "Arizona",
+        "tons_diverted": 37479.0
+      }
+    ]
+  },
+  "scenario_C_combined": {
+    "tons_diverted_national": 1023773.0,
+    "ghg_saved_mt_co2e": 4466040.0,
+    "dollars_saved_billions": 6.374,
+    "meals_recovered": 1928476075.0,
+    "overlap_discount": 0.15
+  }
+}

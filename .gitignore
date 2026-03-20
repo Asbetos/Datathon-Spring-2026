@@ -1,0 +1,36 @@
+# Agent pipeline files (not for submission)
+agents/
+CLAUDE.md
+PIPELINE_PLAN.md
+main.sh
+main.ps1
+build_pptx.js
+build_docx.js
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Intermediate parquet files (ML pipeline internals)
+outputs/ml/_state_df_enriched.parquet
+outputs/ml/_state_2024_clustered.parquet
+
+# Large data files (download from ReFED directly)
+data/ReFED_US_State_Food_Surplus_Detail.csv
+data/ReFED_US_State_Food_Surplus_Summary.csv
+outputs/analysis/cleaned_data/state_detail.parquet

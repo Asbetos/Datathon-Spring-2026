@@ -1,0 +1,92 @@
+{
+  "landfill_model": {
+    "model": "XGBRegressor",
+    "target": "tons_landfill",
+    "cv_r2_mean": 0.9448,
+    "cv_r2_std": 0.0568,
+    "n_observations": 216930,
+    "feature_importance_shap": [
+      {
+        "feature": "tons_surplus",
+        "mean_abs_shap": 1924.887,
+        "rank": 1
+      },
+      {
+        "feature": "sector",
+        "mean_abs_shap": 481.6585,
+        "rank": 2
+      },
+      {
+        "feature": "tons_supply",
+        "mean_abs_shap": 400.4296,
+        "rank": 3
+      },
+      {
+        "feature": "state",
+        "mean_abs_shap": 246.6428,
+        "rank": 4
+      },
+      {
+        "feature": "food_type",
+        "mean_abs_shap": 221.762,
+        "rank": 5
+      },
+      {
+        "feature": "year",
+        "mean_abs_shap": 52.4276,
+        "rank": 6
+      },
+      {
+        "feature": "ban_active",
+        "mean_abs_shap": 24.7103,
+        "rank": 7
+      }
+    ],
+    "key_insight": "The strongest predictor of landfill waste is tons_surplus (mean |SHAP| = 1924.9), followed by sector."
+  },
+  "diversion_model": {
+    "model": "XGBRegressor",
+    "target": "diversion_rate",
+    "cv_r2_mean": 0.9714,
+    "cv_r2_std": 0.0131,
+    "n_observations": 216930,
+    "feature_importance_shap": [
+      {
+        "feature": "state",
+        "mean_abs_shap": 0.177127,
+        "rank": 1
+      },
+      {
+        "feature": "sector",
+        "mean_abs_shap": 0.031068,
+        "rank": 2
+      },
+      {
+        "feature": "ban_active",
+        "mean_abs_shap": 0.028433,
+        "rank": 3
+      },
+      {
+        "feature": "tons_surplus",
+        "mean_abs_shap": 0.026222,
+        "rank": 4
+      },
+      {
+        "feature": "tons_supply",
+        "mean_abs_shap": 0.023934,
+        "rank": 5
+      },
+      {
+        "feature": "year",
+        "mean_abs_shap": 0.012669,
+        "rank": 6
+      },
+      {
+        "feature": "food_type",
+        "mean_abs_shap": 0.00716,
+        "rank": 7
+      }
+    ],
+    "key_insight": "The strongest predictor of diversion rate is state (mean |SHAP| = 0.1771), suggesting sector-level infrastructure drives diversion success."
+  }
+}
